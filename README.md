@@ -1,5 +1,5 @@
 # Epoch-Fizzle-Removal
-Batch file which checks for error "fizzle" sound files before restoring and/or running Epoch.
+Batch script that checks for and restores “fizzle” error sound files before launching Epoch.
 ---
 
 ## Setup
