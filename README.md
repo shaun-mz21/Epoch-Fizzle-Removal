@@ -7,7 +7,7 @@ Batch script that checks for and restores “fizzle” error sound files before 
 1. Place the **Fizzle folder** (included) anywhere on your PC
    - Example: `C:\WoW_Fix\Fizzle`
 
-2. Open: `RunEpoch.bat`
+2. Open: `Epoch.bat`
 
 3. Edit these two lines:
    ```
@@ -22,13 +22,13 @@ Batch script that checks for and restores “fizzle” error sound files before 
 
 4. Save the file.
 
-5. Launch the game using: `RunEpoch.bat`
+5. Launch the game using: `Epoch.bat`
 
 ---
 
 ## Important
 
-- Always launch the game using `RunEpoch.bat`
+- Always launch the game using `Epoch.bat`
 - Using the normal launcher may delete the files again
 - You can still run the launcher for updates — just use the `.bat` afterward
 
